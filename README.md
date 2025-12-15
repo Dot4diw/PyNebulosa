@@ -15,6 +15,10 @@ git clone https://github.com/Dot4diw/PyNebulosa.git
 cd pynebulosa
 pip install -e .
 ```
+Alternatively, download the wheel package file from https://github.com/Dot4diw/PyNebulosa/releases/download/PyNebulosa_V1.0.0/pynebulosa-1.0.0-py3-none-any.whl and install it using the following command:
+```bash
+pip install pynebulosa-1.0.0-py3-none-any.whl
+```
 
 ## Quick Start
 
