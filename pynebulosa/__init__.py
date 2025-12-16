@@ -1,5 +1,5 @@
 """
-PyNebulosa: Single-Cell Data Visualisation Using Kernel Gene-Weighted Density Estimation
+PyNebulosa: A Python implementation of the Nebulosa R package for single-cell data visualization using kernel gene-weighted density estimation.
 """
 
 __version__ = "1.0.0"
