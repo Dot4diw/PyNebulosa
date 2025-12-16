@@ -10,6 +10,7 @@ PyNebulosa is a Python implementation of the R [Nebulosa](https://github.com/pow
 <p align="center">
   <img src="datasets/figures/pancreas_test.png" alt="PyNebulosa visualization example" width="800"/>
 </p>
+*Example visualization of pancreatic cell data showing gene expression density patterns*
 
 ## Installation
 ```bash
@@ -50,7 +51,7 @@ pynebulosa.plot_density(adata, 'gene_name')
   <img src="datasets/figures/pancreas_test_pca.png" alt="PyNebulosa visualization of pancreatic cell data" width="800"/>
 </p>
 
-*Example visualization of pancreatic cell data showing gene expression density patterns*
+*Example visualization of pancreatic cell data showing gene expression density patterns. data from Bastidas-Ponce et,al., 2019(https://doi.org/10.1242/dev.173849)*
 
 ## API Reference
 
