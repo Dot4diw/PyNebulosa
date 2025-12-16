@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pynebulosa"
 version = "1.0.0"
-description = "Single-Cell Data Visualisation Using Kernel Gene-Weighted Density Estimation"
+description = "A Python implementation of the Nebulosa R package for single-cell data visualization using kernel gene-weighted density estimation."
 authors = [{name = "Dot4diw", email = ""}]
 license = {text = "GPL-3.0"}
 readme = "README.md"
