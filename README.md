@@ -5,7 +5,7 @@
 [![PyPI version](https://badge.fury.io/py/pynebulosa.svg)](https://badge.fury.io/py/pynebulosa)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-PyNebulosa is a Python implementation of the R [Nebulosa](https://github.com/powellgenomicslab/Nebulosa) package for visualizing gene expression data in single-cell RNA sequencing datasets. It provides kernel density estimation-based visualization methods that help recover signals from sparse data.
+PyNebulosa is a Python implementation of the R [Nebulosa](https://github.com/powellgenomicslab/Nebulosa) package for visualizing gene expression data in single-cell RNA sequencing datasets. It provides kernel density estimation-based visualization methods that help recover signals from sparse data. It can not only display the expression and density distribution of a single gene, but also reveal the combined expression and density distribution patterns of multiple genes, thereby facilitating the identification of cell subpopulations characterized by multi-gene co-expression.
 
 <p align="center">
   <img src="datasets/figures/pancreas_test.png" alt="PyNebulosa visualization example" width="800"/>
